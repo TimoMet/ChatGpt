@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Chat gpt</string>
+    <string name="logoDescription">Logo</string>
+    <string name="loadingScreen">Chat Gpt Is loading. If you keep seeing this screen, check your connection and restart the app.</string>
 </resources>

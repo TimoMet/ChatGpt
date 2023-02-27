@@ -11,8 +11,8 @@ import android.webkit.WebViewClient
 
 
 class MyWebViewClient : WebViewClient() {
-    var hasFirstLoaded = false
-    var isError = false
+    private var hasFirstLoaded = false
+    private var isError = false
 
     override fun shouldOverrideUrlLoading(view: WebView, request: WebResourceRequest): Boolean {
         val uri = request.url
