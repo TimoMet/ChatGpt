@@ -1,3 +1,5 @@
+package com.timosolo.chatgpt
+
 import android.content.Context
 import android.net.Uri
 import androidx.browser.customtabs.CustomTabsIntent
